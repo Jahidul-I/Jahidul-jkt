@@ -1,1 +1,2 @@
-# Jahidul-jkt
+cd roxid.01
+/main.py
