@@ -9,6 +9,9 @@ git clone
 https://github.com/Jahidul-I/Jahidul-jkt/edit/main/README.md
 
 ls
+
 Jahidul-jkt
+
 ls
+
 python Jajidul.py
